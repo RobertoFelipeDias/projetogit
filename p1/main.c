@@ -7,5 +7,6 @@ int main()
     system("mode con:cols=100 ");
     setlocale(LC_ALL,"portuguese") ;
     printf("Hello world!\n");
+    printf("inclusão de nova linha usuario A");
     return 0;
 }
